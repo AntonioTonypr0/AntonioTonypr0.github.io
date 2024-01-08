@@ -1,0 +1,43 @@
+#abme {
+    position:relative;
+    left:760px;
+    bottom: 720px;
+}
+
+body {
+    background-color:#8b0000 ;
+}
+
+
+img {
+    border: 8px solid darkgreen;
+}
+
+#dog {
+    position:relative;
+    bottom:440px;
+    left:30px
+}
+
+#dogs {
+    position:relative;
+    bottom:440px;
+    right:330px
+}
+
+#foot {
+    position:relative;
+    top:160px;
+}
+
+#info {
+    position:relative;
+    bottom:500px;
+    left:200px;
+}
+
+#infos {
+    position:relative;
+    bottom: 500px;
+    left:470px;
+}
